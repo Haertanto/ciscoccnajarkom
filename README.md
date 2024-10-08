@@ -13,113 +13,135 @@
 1.6. Demo: Download dan Install Eve-NG
 
 1.7. Demo: Download dan Install Eve-NG Lanjutan
-## 2. Host-To-Host Communications
-2.1. Host-To-Host Communications
+## 2. Dasar-Dasar Jaringan
+2.1. Pengenalan Jaringan
 
-2.2. OSI Reference Model
+2.2. Komponen Jaringan
 
-2.3. TCP/IP Protocol Suite
+2.3. Karakteristik Jaringan
 
-2.4. Peer To Peer Communications
+2.4. Karakteristik Jaringan Lanjutan
 
-2.5. TCP/IP Vs OSI Reference Model
-## 3. Cisco IOS Software
-3.1. Fitur dan Fungsi Cisco IOS
+2.5. Topologi Jaringan
 
-3.2. Cisco IOS Sotware Modes
+2.6. Pengaruh Aplikasi di Jaringan
+## 3. Host-To-Host Communications
+3.1. Host-To-Host Communications
 
-3.3. Demo Cisco IOS Sotware
+3.2. OSI Reference Model
 
-3.4. Demo Cisco IOS Sotware Lanjutan
-## 4. Pengenalan Network Layer Addressing & Operation
-4.1. Pengenalan Network Layer Addressing & Operation
+3.3. TCP/IP Protocol Suite
 
-4.2. Mengenal Biner
+3.4. Peer To Peer Communications
 
-4.3. Konversi Biner ke Desimal
+3.5. TCP/IP Vs OSI Reference Model
+## 4. Cisco IOS Software
+4.1. Fitur dan Fungsi Cisco IOS
 
-4.4. Heksadesimal
+4.2. Cisco IOS Sotware Modes
 
-4.5. Dasar- Dasar Angka Biner
-## 5. IPv4 Address
-5.1. IP Address
+4.3. Demo Cisco IOS Sotware
 
-5.2. Tipe-Tipe IP Address
+4.4. Demo Cisco IOS Sotware Lanjutan
 
-5.3. Subnetting
+## 5. Pengenalan Local Area Network (LAN)
+5.1. Local Area Network
 
-5.4. Subnetting Lanjutan
+5.2. Demo: Konfigurasi Switch
 
-5.5. Subnetting (Cara Cepat)
+5.3. Demo: Konfigurasi Router
 
-5.6. VLSM
-## 6. IPv6 Address
-6.1. Mengenal Fitur-Fitur IPv6
+5.4. Demo: Konfigurasi LAN Sederhana
 
-6.2. Tipe-Tipe IPv6 Address
+5.5. Demo: Konfigurasi LAN Sederhana Lanjutan
+## 6. Pengenalan Network Layer Addressing & Operation
+6.1. Pengenalan Network Layer Addressing & Operation
 
-6.3. Demo: Konfigurasi IPv6
+6.2. Mengenal Biner
 
-6.4. Demo: Konfigurasi IPv6 Lanjutan
-## 7. IPv6 Address
-7.1. Mengenal Fitur-Fitur IPv6
+6.3. Konversi Biner ke Desimal
 
-7.2. Tipe-Tipe IPv6 Address
+6.4. Heksadesimal
 
-7.3. Demo: Konfigurasi IPv6
+6.5. Dasar- Dasar Angka Biner
+## 7. IPv4 Address
+7.1. IP Address
 
-7.4. Demo: Konfigurasi IPv6 Lanjutan
-## 8. Pengenalan Konfigurasi Router
-8.1. Pengenalan Konfigurasi Router
+7.2. Tipe-Tipe IP Address
 
-8.2. Komponen Router Cisco
+7.3. Subnetting
 
-8.3. Routing Table
+7.4. Subnetting Lanjutan
 
-8.4. Routing Table Lanjutan
-## 9. Konfigurasi Router
-9.1. Pengaturan Koneksi Router
+7.5. Subnetting (Cara Cepat)
 
-9.2. Demo: Mengamankan Access ke Router
+7.6. VLSM
+## 8. IPv6 Address
+8.1. Mengenal Fitur-Fitur IPv6
 
-9.3. Demo: Telnet pada Router
+8.2. Tipe-Tipe IPv6 Address
 
-9.4. Demo: SSH pada Router
-## 10. Update Cisco IOS
-10.1. Lisensi Perangkat Cisco
+8.3. Demo: Konfigurasi IPv6
 
-10.2. Demo: Update Cisco IOS
+8.4. Demo: Konfigurasi IPv6 Lanjutan
 
-10.3. Konfigurasi Router
-## 11. Pengenalan Routing Ipv4 & Ipv6
-11.1. Pengenalan Routing IPv4 & IPv6
+## 9. Routing Operation
+9.1. Pengenalan Routing Operation
 
-11.2. Routing Operation
+9.2. Demo Konfigurasi IPv4 & IPv6
 
-11.3. Static vs Dynamic Routing
+9.3. Demo Konfigurasi IPv4 & IPv6 Lanjutan
+## 10. Pengenalan Konfigurasi Router
+10.1. Pengenalan Konfigurasi Router
 
-11.4. Kapan Menggunakan Static Routing?
+10.2. Komponen Router Cisco
 
-11.5. Demo: IPv4 Static Routing
+10.3. Routing Table
 
-11.6. Demo: IPv4 Static Routing Lanjutan
+10.4. Routing Table Lanjutan
+## 11. Konfigurasi Router
+11.1. Pengaturan Koneksi Router
 
-11.7 IPv4 Static Routing
+11.2. Demo: Mengamankan Access ke Router
 
-11.8. Demo: Default Route
+11.3. Demo: Telnet pada Router
 
-11.9. Demo: Penerapan IPv6 Static Routing
+11.4. Demo: SSH pada Router
+## 12. Update Cisco IOS
+12.1. Lisensi Perangkat Cisco
 
-11.10. Demo: Penerapan IPv6 Static Routing Lanjutan
-## 12. Troubleshooting
-12.1. Mengenal Troubleshooting IPv4 dan Ipv6
+12.2. Demo: Update Cisco IOS
 
-12.2. Demo: Troubleshooting IPv4
+12.3. Konfigurasi Router
+## 13. Pengenalan Routing Ipv4 & Ipv6
+13.1. Pengenalan Routing IPv4 & IPv6
 
-12.3. Demo: Troubleshooting IPv6
-## 13. Penerapan IPv4 dan IPv6 Static Routing
-13.1. Demo: Penerapan IPv4 And IPv6 Static Routing
+13.2. Routing Operation
 
-13.2. Penerapan IPv4 And IPv6 Static Routing Lanjutan
+13.3. Static vs Dynamic Routing
 
-13.3. Routing IPv4 dan IPv6
+13.4. Kapan Menggunakan Static Routing?
+
+13.5. Demo: IPv4 Static Routing
+
+13.6. Demo: IPv4 Static Routing Lanjutan
+
+13.7 IPv4 Static Routing
+
+13.8. Demo: Default Route
+
+13.9. Demo: Penerapan IPv6 Static Routing
+
+13.10. Demo: Penerapan IPv6 Static Routing Lanjutan
+## 14. Troubleshooting
+14.1. Mengenal Troubleshooting IPv4 dan Ipv6
+
+14.2. Demo: Troubleshooting IPv4
+
+14.3. Demo: Troubleshooting IPv6
+## 15. Penerapan IPv4 dan IPv6 Static Routing
+15.1. Demo: Penerapan IPv4 And IPv6 Static Routing
+
+15.2. Penerapan IPv4 And IPv6 Static Routing Lanjutan
+
+15.3. Routing IPv4 dan IPv6
